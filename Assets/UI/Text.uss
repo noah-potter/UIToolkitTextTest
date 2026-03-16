@@ -1,0 +1,4 @@
+.text {
+    font-size: 48px;
+    width: 290px;
+}
